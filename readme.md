@@ -104,19 +104,9 @@ index.html
 
 in your browser.
 
----
-
-# 
-```
 
 
-Your website will be live at:
-
-https://vrajparekh1312.github.io/CodeAlpha_Portfolio/
-
----
-
-# 📬 Contact
+ 📬 Contact
 
 👨‍💻 **Vraj Parekh**
 
@@ -127,12 +117,12 @@ https://www.linkedin.com/in/vraj-parekh-7b801b30b
 
 ---
 
-# ⭐ Support
+ ⭐ Support
 
 If you like this project, please **give it a star ⭐ on GitHub**.
 
 ---
 
-# 📚 Acknowledgement
+ 📚 Acknowledgement
 
 This project was developed as part of the **CodeAlpha Frontend Development Internship Program**.
