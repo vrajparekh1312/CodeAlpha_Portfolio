@@ -1,116 +1,138 @@
-🌐 Vraj Parekh Portfolio Website
+# 🌐 Vraj Parekh Portfolio Website
 
-A modern interactive developer portfolio website built using HTML, CSS, JavaScript, and Three.js.
-This portfolio showcases projects, skills, achievements, and contact information with a futuristic UI and smooth animations.
+A modern **interactive developer portfolio website** built using **HTML, CSS, JavaScript**.
 
-The website includes advanced UI features such as 3D effects, animated backgrounds, custom cursor, AI assistant, and developer mode to create a unique user experience.
+This portfolio showcases my **projects, skills, achievements, and contact information** with a futuristic UI and smooth animations. The website includes advanced UI features like **3D effects, animated backgrounds, custom cursor, AI assistant, and developer mode** to provide a unique and engaging user experience.
 
-🚀 Live Demo
+---
 
-🔗 Website:
-https://vrajparekh1312.github.io/
+# 🚀 Live Demo
 
-✨ Features
-🎨 Modern UI/UX
-Futuristic developer-style interface
-Neon gradients and animated backgrounds
-Smooth scrolling and section transitions
-🧠 Interactive Components
-Custom animated cursor
-Scroll progress indicator
-Loader animation
-🤖 AI Assistant
-Built-in AI chat interface
-Interactive responses for visitors
-🖥 Developer Mode
-Hidden Developer Terminal
-Unlock by clicking logo 5 times
-Coding challenge system
-📊 Portfolio Sections
-Hero Section
-About Me
-Skills
-Projects
-Achievements
-Contact Form
-🌗 Theme Support
-Dark Mode
-Light Mode toggle
-🛠 Technologies Used
-Technology	Purpose
-HTML5	Website structure
-CSS3	Styling and animations
-JavaScript	Interactivity
-Three.js	3D background effects
-Google Fonts	Modern typography
-📂 Project Structure
-Portfolio
+🔗 **Portfolio Website**
+https://vrajparekh1312.github.io/CodeAlpha_Portfolio/
+
+---
+
+# ✨ Features
+
+## 🎨 Modern UI/UX
+
+* Futuristic developer-style interface
+* Neon gradients and animated backgrounds
+* Smooth scrolling and section transitions
+
+## 🧠 Interactive Components
+
+* Custom animated cursor
+* Scroll progress indicator
+* Loader animation
+
+## 🤖 AI Assistant
+
+* Built-in AI chat interface
+* Interactive responses for visitors
+
+## 🖥 Developer Mode
+
+* Hidden Developer Terminal
+* Unlock by clicking the logo **5 times**
+* Coding challenge system
+
+## 📊 Portfolio Sections
+
+* Hero Section
+* About Me
+* Skills
+* Projects
+* Achievements
+* Contact Form
+
+## 🌗 Theme Support
+
+* Dark Mode
+* Light Mode toggle
+
+---
+
+# 🛠 Technologies Used
+
+| Technology   | Purpose                |
+| ------------ | ---------------------- |
+| HTML5        | Website structure      |
+| CSS3         | Styling and animations |
+| JavaScript   | Interactivity          |
+| Three.js     | 3D background effects  |
+| Google Fonts | Modern typography      |
+
+---
+
+# 📂 Project Structure
+
+```
+CodeAlpha_Portfolio
 │
 ├── index.html
-├── assets
-│   ├── images
-│   ├── icons
-│
-├── css
-│   └── styles.css
-│
-├── js
-│   └── script.js
-│
+├── styles.css
+├── script.js
+├── Screenshot 2026-03-17 191605.png
 └── README.md
+```
 
-(Your project currently contains most of the CSS and JS directly inside index.html.)
 
-📸 Portfolio Sections
-1️⃣ Hero Section
-Introduction
-Animated typing effect
-Resume and LinkedIn buttons
-2️⃣ About Section
-Personal information
-Education
-Timeline of achievements
-3️⃣ Skills Section
 
-Displays technical skills with animated progress bars.
+# ⚙ Installation
 
-4️⃣ Projects Section
+### 1️⃣ Clone the repository
 
-Showcases featured projects with:
+```
+git clone https://github.com/vrajparekh1312/CodeAlpha_Portfolio.git
+```
 
-Description
-Features
-Technology stack
-5️⃣ Achievements
-Hackathon wins
-Certifications
-6️⃣ Contact Section
+### 2️⃣ Open the project folder
 
-Visitors can contact using:
+```
+cd CodeAlpha_Portfolio
+```
 
-Email
-LinkedIn
-Contact form
-⚙ Installation
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/portfolio.git
-2️⃣ Open the folder
-cd portfolio
-3️⃣ Run the website
+### 3️⃣ Run the project
 
 Simply open:
 
+```
 index.html
+```
 
 in your browser.
 
-📬 Contact
+---
 
-👨‍💻 Vraj Parekh
+# 
+```
 
-LinkedIn:
+
+Your website will be live at:
+
+https://vrajparekh1312.github.io/CodeAlpha_Portfolio/
+
+---
+
+# 📬 Contact
+
+👨‍💻 **Vraj Parekh**
+
+Frontend Developer | Computer Engineering Student
+
+🔗 LinkedIn
 https://www.linkedin.com/in/vraj-parekh-7b801b30b
 
-⭐ If you like this project
+---
 
-Please give it a star ⭐ on GitHub and share it with others!
+# ⭐ Support
+
+If you like this project, please **give it a star ⭐ on GitHub**.
+
+---
+
+# 📚 Acknowledgement
+
+This project was developed as part of the **CodeAlpha Frontend Development Internship Program**.
